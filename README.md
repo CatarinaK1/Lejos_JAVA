@@ -7,12 +7,11 @@ The programming aspect of this project was done using the Eclipse IDE and Java o
 
 ## Our Ev3's features  
 <br/>
-SlayRoboto- Main program where all the threads are initialized: DataExchange(DE), LineFollower (LFObj), ObstacleDetector (ODObj), ColorSensor (CSObj) 
+**_SlayRoboto_** - Main program where all the threads are initialized: DataExchange(DE), LineFollower (LFObj), ObstacleDetector (ODObj), ColorSensor (CSObj) 
 
 
-**_DataExchange_**- Collection of setters and getters. 
-
-Here values are passed through the different threads.  
+#### **_DataExchange_** - 
+Collection of setters and getters. Here values are passed through the different threads.  
 
 The **_ObstacleDetector_** thread passes values from its sample provider to the lineFollower thread through this object (obstacleDetected).  
 
