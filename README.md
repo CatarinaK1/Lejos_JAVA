@@ -4,9 +4,9 @@ This is the project for the Applied project application course 4cr.
 Our team's objective was to bring the EV3 to life by working with Lejos. Our robot had to perform a series of tasks such as effectively detecting a line on the ground and following this path without deviating from it
 and avoiding any obstacles on it's way.  
 The programming aspect of this project was done using the Eclipse IDE and Java on the EV3 robot given to the groups.  
-
-## Our Ev3's features  
 <br/>  
+
+## Our Ev3's features    
 
 #### _SlayRoboto_ 
 
