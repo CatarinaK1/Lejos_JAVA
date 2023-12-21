@@ -6,8 +6,10 @@ and avoiding any obstacles on it's way.
 The programming aspect of this project was done using the Eclipse IDE and Java on the EV3 robot given to the groups.  
 
 ## Our Ev3's features  
-<br/>
+<br/>  
+
 #### _SlayRoboto_ 
+
 Main program where all the threads are initialized: DataExchange(DE), LineFollower (LFObj), ObstacleDetector (ODObj), ColorSensor (CSObj)  
 
 
